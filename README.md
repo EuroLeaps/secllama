@@ -1,4 +1,4 @@
-# 🛡️ security-llama 🦙
+# 🛡️ Security-Llama 🦙
 
 SecurityLlama is a LLM and set of applications specialized for cybersecurity.
 
