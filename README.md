@@ -1,6 +1,7 @@
 # 🛡️ Security-Llama 🦙
 
-SecurityLlama is a LLM and set of applications specialized for cybersecurity.
+SecurityLlama is a LLM and a set of applications specialized for cybersecurity.
+
 
 ![Alt text](llama.jpeg?raw=true "Security-Llama")
 
