@@ -4,7 +4,7 @@
 SecurityLlama is a LLM and a set of applications specialized for cybersecurity.
 
 
-![Alt text](llama.PNG|width=100?raw=true "Security-Llama")
+![Alt text](llama.PNG?raw=true "Security-Llama")
 
 ## 💡 Contributing
 Interested in contributing? See our [Contribution Guide](CONTRIBUTING.md) for more details.
